@@ -1,3 +1,7 @@
+Simple user database POST/DELETE express server example, with validation and error handling.
+
+Built using my boilerplate found below.
+
 # Express Boilerplate!
 
 This is a boilerplate project used for starting new projects!
